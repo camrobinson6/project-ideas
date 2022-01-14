@@ -1,8 +1,31 @@
 // Websites for Capstone
 
+These 2 are the websites I chose if thats possible.
 https://sneakernews.com   (//*[@id="menu-top-menu-mobile"]/li[2]/a)
 
 https://www.nike.com/   (//*[@id="ccff9321-6cf3-4c98-b717-40efba509076"]/div/div/section/ul/li[1]/figure/a)
 
+
+
+
+
+
+
+
+
+
 https://www.chevrolet.com/    (//*[@id="q-main-content"]/div[3]/div/div/div[2]/div/div/div/a)
                        
+https://www.apple.com/       //*[@id="ac-globalfooter"]/div/nav/div[5]/div[2]/label/h3
+
+https://www.springfield-armory.com/   //*[@id="home-by-series"]/div[1]/div/a[2]/div/div[2]
+
+https://www.lamborghini.com/en-en
+https://www.ferrari.com/en-US
+
+https://www.petco.com/
+https://www.gmc.com/
+https://www.espn.com/
+
+
+
