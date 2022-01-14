@@ -1,1 +1,8 @@
-site ideas
+// Websites for Capstone
+
+https://sneakernews.com   (//*[@id="menu-top-menu-mobile"]/li[2]/a)
+
+https://www.nike.com/   (//*[@id="ccff9321-6cf3-4c98-b717-40efba509076"]/div/div/section/ul/li[1]/figure/a)
+
+https://www.chevrolet.com/    (//*[@id="q-main-content"]/div[3]/div/div/div[2]/div/div/div/a)
+                       
