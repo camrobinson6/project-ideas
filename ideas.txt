@@ -20,4 +20,7 @@ https://www.gmc.com/
 https://sneakernews.com   (//*[@id="menu-top-menu-mobile"]/li[2]/a)
 
 
+CAPSTONE 1/17/2022
 
+https://trello.com/c/IQQOCm2N
+https://trello.com/c/qyOwaGOK
