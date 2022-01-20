@@ -1,0 +1,27 @@
+{
+  "name": "project-ideas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camrobinson6/project-ideas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camrobinson6/project-ideas/issues"
+  },
+  "homepage": "https://github.com/camrobinson6/project-ideas#readme",
+  "dependencies": {
+    "@types/jest": "^27.4.0",
+    "@types/selenium-webdriver": "^4.0.16",
+    "chromedriver": "^97.0.0",
+    "jest": "^27.4.7",
+    "selenium-webdriver": "^4.1.1"
+  }
+}
