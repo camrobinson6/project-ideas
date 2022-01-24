@@ -1,0 +1,141 @@
+{
+	"info": {
+		"_postman_id": "ed8b2c07-1369-407f-82fd-34881ff0ba04",
+		"name": "Capstone API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "SLAM get request #1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://d.pub.network/v2/init?siteId=1868&env=PROD",
+					"protocol": "https",
+					"host": [
+						"d",
+						"pub",
+						"network"
+					],
+					"path": [
+						"v2",
+						"init"
+					],
+					"query": [
+						{
+							"key": "siteId",
+							"value": "1868"
+						},
+						{
+							"key": "env",
+							"value": "PROD"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "SLAM get request #2",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://gum.criteo.com/sid/json?origin=prebid&topUrl=https%3A%2F%2Fwww.slamonline.com%2F&domain=www.slamonline.com&bundle=U61yFl9uJTJCb0tMMzQlMkYwTm9lS0h3YSUyRlI3NiUyRmdpb282JTJCbUdteEI2VEV2JTJGdkNFQ3l4JTJGdDlDamhhbWQ3bnRRd0dBOFo5SmcxUlhJbmVudFdwZGhXSUc5QmwlMkJDem1LUVlNVVRBcTNBZElWbm8yejIlMkZ1YWlyeXdWZVRNZnQzQnlpamdGJTJCR3h5VDJsZXZtUW9YNFY5Vmc3dHR5RFRoQSUzRCUzRA&cw=1&lsw=1",
+					"protocol": "https",
+					"host": [
+						"gum",
+						"criteo",
+						"com"
+					],
+					"path": [
+						"sid",
+						"json"
+					],
+					"query": [
+						{
+							"key": "origin",
+							"value": "prebid"
+						},
+						{
+							"key": "topUrl",
+							"value": "https%3A%2F%2Fwww.slamonline.com%2F"
+						},
+						{
+							"key": "domain",
+							"value": "www.slamonline.com"
+						},
+						{
+							"key": "bundle",
+							"value": "U61yFl9uJTJCb0tMMzQlMkYwTm9lS0h3YSUyRlI3NiUyRmdpb282JTJCbUdteEI2VEV2JTJGdkNFQ3l4JTJGdDlDamhhbWQ3bnRRd0dBOFo5SmcxUlhJbmVudFdwZGhXSUc5QmwlMkJDem1LUVlNVVRBcTNBZElWbm8yejIlMkZ1YWlyeXdWZVRNZnQzQnlpamdGJTJCR3h5VDJsZXZtUW9YNFY5Vmc3dHR5RFRoQSUzRCUzRA"
+						},
+						{
+							"key": "cw",
+							"value": "1"
+						},
+						{
+							"key": "lsw",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "NIKE get request #1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://site.bluecore.com/audience?ns=nike&distinct_id=17d0a797cb2148-08e9138ab2c7a3-57b193e-1fa400-17d0a797cb3d2b",
+					"protocol": "https",
+					"host": [
+						"site",
+						"bluecore",
+						"com"
+					],
+					"path": [
+						"audience"
+					],
+					"query": [
+						{
+							"key": "ns",
+							"value": "nike"
+						},
+						{
+							"key": "distinct_id",
+							"value": "17d0a797cb2148-08e9138ab2c7a3-57b193e-1fa400-17d0a797cb3d2b"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "NIKE ge request #2",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.nike.com/assets/vendor/optimizely/prod/5aUCtZvFuDLjvdqdf2w53M.json",
+					"protocol": "https",
+					"host": [
+						"www",
+						"nike",
+						"com"
+					],
+					"path": [
+						"assets",
+						"vendor",
+						"optimizely",
+						"prod",
+						"5aUCtZvFuDLjvdqdf2w53M.json"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
