@@ -23,9 +23,6 @@ https://sneakernews.com   (//*[@id="menu-top-menu-mobile"]/li[2]/a)
 CAPSTONE 1/17/2022
 
 
-Trelllo test plan
-https://trello.com/c/IQQOCm2N
-https://trello.com/c/qyOwaGOK
 
 
-Features not to be Tested:
+
