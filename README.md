@@ -26,7 +26,7 @@
 
 [Nike manual testing](https://trello.com/c/LWx5QlIk)
 
-## API PICTURES
+## API SCREENSHOTS
 ![slam get request 1](https://user-images.githubusercontent.com/92333068/151053303-003b307e-ea26-40b9-9837-50cfbee61f92.png)
 ![slam get request 2](https://user-images.githubusercontent.com/92333068/151053314-639eb48c-204f-472f-945a-c12eba9ee3b1.png)
 ![nike get request 1](https://user-images.githubusercontent.com/92333068/151053317-5ded7be2-3d3b-4dac-8b50-8c71336a664b.png)
