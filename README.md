@@ -20,14 +20,13 @@
 # Project Description
 I have ran over 20 test between the sites SlamOnline.com and Nike.com websites. I went in to detail with my test plans, bug reports, and test summaries to get a understanding of the process. I ran manual test on both sites that covered very inportant sections of the site. And I also ran automation testing so you can see how the testing happens.
 
-## Author
-
-👤 **Cameron M. Robinson**
-
-* Website: cam
-* Twitter: [@IamQACam](https://twitter.com/IamQACam)
-* Github: [@camrobinson6](https://github.com/camrobinson6)
-* LinkedIn: [@cameronmrobinson](https://linkedin.com/in/cameronmrobinson)
+# Tech Stack
+* Jest
+* Selenium-webdriver
+* chromedriver
+* javascript
+* node.js
+* typescript
 
 
 # Trello & API screenshot Links
@@ -60,5 +59,13 @@ I have ran over 20 test between the sites SlamOnline.com and Nike.com websites. 
 ![slam get request 2](https://user-images.githubusercontent.com/92333068/151053314-639eb48c-204f-472f-945a-c12eba9ee3b1.png)
 ![nike get request 1](https://user-images.githubusercontent.com/92333068/151053317-5ded7be2-3d3b-4dac-8b50-8c71336a664b.png)
 ![nike get request 2](https://user-images.githubusercontent.com/92333068/151053323-4a18759a-4a60-4024-b464-090366221f9a.png)
+
+## Author
+
+👤 **Cameron M. Robinson**
+
+* Twitter: [@IamQACam](https://twitter.com/IamQACam)
+* Github: [@camrobinson6](https://github.com/camrobinson6)
+* LinkedIn: [@cameronmrobinson](https://linkedin.com/in/cameronmrobinson)
 
 Copyright © 2022 [Cameron M. Robinson](https://github.com/camrobinson6).<br />
