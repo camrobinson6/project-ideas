@@ -1,3 +1,22 @@
+<h1 align="center">Welcome to my QA Final Capstone 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/camrobinson6/project-ideas#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/camrobinson6/project-ideas/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/camrobinson6/project-ideas/blob/master/LICENSE" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/github/license/camrobinson6/Final Capstone" />
+  </a>
+  <a href="https://twitter.com/IamQACam" target="_blank">
+    <img alt="Twitter: IamQACam" src="https://img.shields.io/twitter/follow/IamQACam.svg?style=social" />
+  </a>
+</p>
+
+> Running Automation testing on SlamOnline.com and Nike.com websites.
+
 # Project-Ideas
 
 # Trello
