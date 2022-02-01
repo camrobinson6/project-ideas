@@ -22,7 +22,7 @@ describe("NIKE app functionality", () => {
             await jordanLogo.click() //this is where I click on the button when testing
             await driver.sleep(4000) //this how long the test waits before performing task
     //testing the jordan community 
-            let jordanCom = await driver.findElement(By.xpath('//*[@id="debfdce8-2b07-4728-a361-405a9c3804a6"]/div/div/div/nav/div[1]/ul/li[3]/a'))
+            let jordanCom = await driver.findElement(By.xpath('//*[@id="0392075b-56f3-4064-ab30-473ae7e5da7a"]/div/div/div[2]/div/div/a'))
             await jordanCom.click() //this is where I click on the button when testing
             await driver.sleep(3000) //this how long the test waits before performing task
         })
@@ -62,11 +62,17 @@ describe("NIKE app functionality", () => {
             await search.sendKeys('Huaraches') //this testing is when you search you input "huaraches"
             await driver.sleep(2000) //this how long the test waits before performing task
         })
-
-        it("Test the About page", async () => {
-    //testing the about me button
-            let aboutBtn = driver.findElement(By.xpath('//*[@id="gen-nav-footer"]/footer/div/div[1]/div[1]/div/div[3]/div/ul/li[2]/a'))
-            await aboutBtn.click() //this is where I click on the button when testing
-            await driver.sleep(4000) //this how long the test waits before performing task
-        })
+        it("Test the Search bar works", async () => {
+            //testing the search bar input
+                    let search = driver.findElement(By.xpath('//*[@id="VisualSearchInput"]'))
+                    await search.click() //this is where I click on the button when testing
+                    await search.sendKeys('Adidas') //this testing is when you search you input "huaraches"
+                    await driver.sleep(2000) //this how long the test waits before performing task
+                })
+    //     it("Test the Exclusive Nike Shopping Perks page", async () => {
+    // //testing the about me button
+    //         let excluBtn = driver.findElement(By.xpath('//*[@id="aee37ae7-c700-4359-b06d-1c6d751e5f81"]/div/div[2]/ul/li[4]/a'))
+    //         await excluBtn.click() //this is where I click on the button when testing
+    //         await driver.sleep(6000) //this how long the test waits before performing task
+    //     })
     })
