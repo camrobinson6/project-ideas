@@ -76,3 +76,4 @@ describe("NIKE app functionality", () => {
     //         await driver.sleep(6000) //this how long the test waits before performing task
     //     })
     })
+    
