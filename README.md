@@ -15,11 +15,12 @@
   </a>
 </p>
 
-> Running Automation testing on SlamOnline.com and Nike.com websites.
 
-# Project-Ideas
 
-# Trello
+# Project Description
+I have ran over 20 test between the sites SlamOnline.com and Nike.com websites. I went in to detail with my test plans, bug reports, and test summaries to get a understanding of the process. I ran manual test on both sites that covered very inportant sections of the site. And I also ran automation testing so you can see how the testing happens.
+
+# Trello & API screenshot Links
 
 ## SLAM WEBSITE
 [Slam test plan](https://trello.com/c/c8n7WaWg)
@@ -31,7 +32,6 @@
 [Slam manual testing](https://trello.com/c/XvOgSmAc)
 
 [Bug report](https://trello.com/c/rcHoSZFI)
-
 
 
 ## NIKE WEBSITE
