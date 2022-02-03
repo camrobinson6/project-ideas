@@ -18,7 +18,7 @@
 
 
 # Project Description
-I have ran over 20 test between the sites SlamOnline.com and Nike.com websites. I went in to detail with my test plans, bug reports, and test summaries to get a understanding of the process. I ran manual test on both sites that covered very inportant sections of the site. And I also ran automation testing so you can see how the testing happens.
+SlamOnline.com and Nike.com websites are two sites that about sports. In this project I went in to detail with my test plans, bug reports, and test summaries to get a understanding of the process. I ran manual test on both sites that covered very inportant sections of the site with the most traffic of the site. And I also ran automation testing that covers the important sections of both sites that gives you a insight about testing using selenium.
 
 # Tech Stack
 * Jest
