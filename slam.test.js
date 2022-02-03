@@ -46,9 +46,9 @@ describe("SLAM app functionality", () => {
         await nba.click()  //this clicks on the covers button
         await driver.sleep(1000)
 
-        let loadMore = driver.findElement(By.xpath('//*[@id="ajax-load-more"]/div[2]/button'))
-        await loadMore.click()  //this clicks on the covers button
-        await driver.sleep(2000)
+        // let loadMore = driver.findElement(By.xpath('//*[@id="ajax-load-more"]/div[2]/button'))
+        // await loadMore.click()  //this clicks on the covers button
+        // await driver.sleep(2000)
 
     })
     it("Must authenticate College baskeball page", async () => {
@@ -65,9 +65,9 @@ describe("SLAM app functionality", () => {
         await cbk.click() //this clicks on the covers button
         await driver.sleep(1000)
 //testing the load more button
-        let loadMoretwo = driver.findElement(By.xpath('//*[@id="ajax-load-more"]/div[2]/button'))
-        await loadMoretwo.click()  //this clicks on the covers button
-        await driver.sleep(2000)
+        // let loadMoretwo = driver.findElement(By.xpath('//*[@id="ajax-load-more"]/div[2]/button'))
+        // await loadMoretwo.click()  //this clicks on the covers button
+        // await driver.sleep(2000)
 })
     it("Must authenticate WNBA page", async () => {
  //testing WNBA page and //testing the menu button
@@ -83,9 +83,9 @@ describe("SLAM app functionality", () => {
         await wnba.click()  //this clicks on the covers button
         await driver.sleep(1000)
 //testing the load more button
-        let loadMoretri = driver.findElement(By.xpath('//*[@id="ajax-load-more"]/div[2]/button'))
-        await loadMoretri.click() //this clicks on the covers button
-        await driver.sleep(2000)
+        // let loadMoretri = driver.findElement(By.xpath('//*[@id="ajax-load-more"]/div[2]/button'))
+        // await loadMoretri.click() //this clicks on the covers button
+        // await driver.sleep(2000)
 })
     it("Must authenticate the Features page", async () => {
 //testing feature page works and the menu button
@@ -97,9 +97,9 @@ describe("SLAM app functionality", () => {
         await feature.click()  //this clicks on the covers button
         await driver.sleep(2000)
 //testing the load more button
-        let featureMore = await driver.findElement(By.xpath('//*[@id="ajax-load-more"]/div[2]/button'))
-        await featureMore.click()  //this clicks on the covers button
-        await driver.sleep(2000)
+        // let featureMore = await driver.findElement(By.xpath('//*[@id="ajax-load-more"]/div[2]/button'))
+        // await featureMore.click()  //this clicks on the covers button
+        // await driver.sleep(2000)
 })
     it("Must authenticate the Covers page", async () => {
 //testing the Covers page
