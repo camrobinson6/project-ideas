@@ -42,8 +42,11 @@ SlamOnline.com and Nike.com websites are two sites that about sports. In this pr
 
 [Bug report](https://trello.com/c/rcHoSZFI)
 
+[Nike Test Summary](https://trello.com/c/cSj946Us)
+
 
 ## NIKE WEBSITE
+[Nike Test Summary](https://trello.com/c/uRLoLwhv)
 [Nike Test plan](https://trello.com/c/lQQOCm2N)
 
 [not tested selector](https://trello.com/c/B0pGMtm3)
