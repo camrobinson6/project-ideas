@@ -1,0 +1,42 @@
+NIKE TEST SUMMARY
+
+This document explains the various activities performed as part of the Testing of the NIKE website. I tested ten items on this page. A list is below:
+
+•	Sign In
+•	Converse page
+•	Converse Logo
+•	Jordan Logo
+•	New Release page
+•	Nike Men’s page
+•	Search button
+•	Nike Kid’s page
+•	Nike Women’s page
+•	About Nike page
+
+This app lets you shop the best gear and be part of a community. Nike exists to bring inspiration and innovation to every athlete* in the world. Our Purpose is to move the world forward through the power of sport – breaking barriers and building community to change the game for all. If you have a body, you are an athlete.
+Our mission is what drives us to do everything possible to expand human potential. We do that by creating groundbreaking sport innovations, by making our products more sustainably, by building a creative and diverse global team and by making a positive impact in communities where we live and work. Based in Beaverton, Oregon, NIKE, Inc. includes the Nike, Converse, and Jordan brands.
+A function that was not tested was the PayPal checkout function. A functionality verification needs connectivity to third party application and could not be tested. I would take you testing your bank account with PayPal and the functions of PayPal.
+I wanted to run automation on the Nike site also, so I chose specific selectors to different pages. I chose the different pages on the site cause of the traffic to those pages. You should be able to load each page from the menu that is at the top part of the homepage. You have Kids, Women, New Releases, and a couple of others. And by testing the page using selenium I was able test by using “describe” This is a type of testing which evaluated by software developers in which the smallest testable module of an application - like functions, procedures, or interfaces - are tested to ascertain if they are fit to use. I used one test suite and tested inside of the test suite that tested different selectors to the page.
+
+                                                     
+Test cases Planned	Test cases executed	TC Pass	TC Failed
+11	11	10	1
+                                 
+On this site I wanted to run a about three manual tests on certain parts of the site. First, I chose the Sign In selectors. On most sites you make a profile and sign in. So, I made a test email address and password to test the sign in section. I find the three selectors I needed to check it. The username, email address, and the submit button. The results should show your new profile as logged in. Secondly, I tested the Converse Logo on the page. The expected results should take me to the Converse homepage where there are links to different items to purchase. And my third manual test I ran was selecting an item from the Converse page.
+
+
+SLAM Test Summary
+
+For 27 years and counting, SLAM has been the most authentic brand in basketball storytelling. What started as a magazine in 1994 has now grown into a global lifestyle brand and multimedia property with 20-plus social channels, a burgeoning merchandise division and multiple franchise events annually. With over sixteen million engaged followers across the globe, SLAM and its channels reach fans of the NBA, WNBA, college and high school, and the worlds of fashion, sneakers, gaming and more in a unique and trusted voice. The cover of SLAM remains the Holy Grail for basketball players; if you want to play in the NBA or WNBA, you want to be on the cover of SLAM. This document explains the various activities performed as part of the Testing of the SLAM website. I evaluated ten items on this page. A list is below:
+
+•	Modal Pop-up
+•	Menu button
+•	Features Page
+•	College and High School basketball page
+•	NBA page
+•	WNBA page
+•	Covers Page
+•	DNA page
+•	Contact Us page
+
+The approach I took with the DNA page and the Contact Us page I used manual testing to really get an understanding of what the actual results should be. I ran automation test on the section of the site that gets 90% of the traffic. Each section is especially important that it works, because without the site working, the site would result in loss of subscribers and users. In my manual testing you can be able to recreate my steps. I found a small bug in the search bar section. I searched things that should not display, and the actual results were of one player, the expected result should be nothing found. All the manual test that I ran pass. I ran eight automation test using selenium to run thru all the sections of the website to make sure they work. These tests can save the company money by working out the bugs and making sure that the main feature of the site works properly.
